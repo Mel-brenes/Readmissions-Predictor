@@ -1,1 +1,0 @@
-https://health.data.ny.gov/api/views/amqp-cz9w/rows.csv?accessType=DOWNLOAD, https://health.data.ny.gov/api/views/amqp-cz9w/rows.rdf?accessType=DOWNLOAD, https://health.data.ny.gov/api/views/amqp-cz9w/rows.json?accessType=DOWNLOAD, https://health.data.ny.gov/api/views/amqp-cz9w/rows.xml?accessType=DOWNLOAD
